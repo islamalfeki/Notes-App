@@ -57,7 +57,7 @@ class _AppLayoutState extends State<AppLayout> {
           unselectedLabelStyle: TextStyle(
             fontFamily: "Poppins",
             fontSize: 12.sp,
-            // fontWeight: FontWeight.w500,
+            fontWeight: FontWeight.w500,
           ),
         ),
       ),
